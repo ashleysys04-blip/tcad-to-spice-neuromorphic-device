@@ -1,0 +1,16 @@
+go atlas
+
+# ============================================================
+# PN Junction Breakdown Sweep Template
+# TODO:
+#   - Duplicate this deck for different n-side doping values
+#   - Compare breakdown voltage as a function of doping
+# ============================================================
+
+# Suggested n-side doping values:
+#   1e15, 1e16, 1e17, 1e18 cm^-3
+
+# This is a placeholder template. Start from pn_diode_base.in,
+# modify the n-side doping, and save logs with clear names.
+
+quit

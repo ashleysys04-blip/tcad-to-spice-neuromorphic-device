@@ -1,0 +1,34 @@
+# Silvaco / TCAD generated files
+*.str
+*.log
+*.history
+*.set
+*.tdr
+*.plt
+*.dat
+
+# SPICE generated files
+*.raw
+*.out
+*.lis
+*.tr0
+*.sw0
+*.ac0
+
+# Cadence / EDA generated files
+cds.lib
+*.cdslck*
+*.oa
+simulation/
+psf/
+spectre.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db

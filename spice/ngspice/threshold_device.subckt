@@ -1,0 +1,12 @@
+* ============================================================
+* Behavioral Threshold Device Template
+* ============================================================
+* Placeholder subcircuit.
+* Later, fit parameters using TCAD I-V data.
+
+* Example interface:
+* Xth node_plus node_minus threshold_device
+
+.subckt threshold_device p n params: Vth=1.0 Ron=1k Roff=1G
+* TODO: Implement behavioral threshold switching model.
+.ends threshold_device
